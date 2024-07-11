@@ -16,3 +16,6 @@ dependency-reduced-pom.xml
 .idea
 *.iml
 .sonar_lock
+
+.gradle
+local.properties
